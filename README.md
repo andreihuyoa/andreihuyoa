@@ -20,7 +20,7 @@ I'm Andrei Huyo-a, [21](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f
 ![React](https://img.shields.io/badge/React-236F95?style=flat-square&logo=react&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D848C?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4C6619?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/MongoDB-2C3644?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2C3644?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Actually learning anything](https://img.shields.io/badge/Actually%20learning%20anything-0A331D?style=flat-square&logoColor=white)
 
 ### 🔭 I'm currently working on
