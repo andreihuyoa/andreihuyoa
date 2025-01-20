@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-I'm Andrei, ([21](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f2d4195dada4c7a895b86e0c63775abca23)y.o)
+I'm Andrei Huyo-a, [21](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f2d4195dada4c7a895b86e0c63775abca23)y.o
 
 ### 🌱 I'm currently learning
-
-<br>
-<br>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-236F95?style=flat-square&logo=react&logoColor=white)
@@ -20,9 +17,6 @@ I'm Andrei, ([21](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f2d4195
 - [AI SaaS Resume Builder](https://github.com/andreihuyoa/Resume-Builder)
 
 ### 📫 How to reach me
-
-<br>
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andreihuyoa-gray?labelColor=31A8ED&style=flat&link=andreihuyoa.vercel.app)](andreihuyoa.vercel.app)
 
