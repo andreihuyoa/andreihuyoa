@@ -1,6 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-I'm Andrei Huyo-a, [21](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f2d4195dada4c7a895b86e0c63775abca23) y.o. from Philippines !
+<h2 align="center">
+   <samp>
+  Welcome to Andrei Huyo-a's github page!
+  </samp>
+     <a href="https://andreihuyoa.vercel.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
+</h2>
+
+<a href="https://andreihuyoa.vercel.app">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5jdmppajRhOWczcWExbDk0eG5icnNjbGl5MXNzb3IxZHFya2NyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif" width="40%"></a>
+
+I'm Andrei Huyo-a, [21](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f2d4195dada4c7a895b86e0c63775abca23) y.o. from Philippines. I love doing things around the web and the cloud!
 
 ### 🌱 I'm currently learning
 
@@ -18,19 +28,18 @@ I'm Andrei Huyo-a, [21](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f
 
 ### 📫 How to reach me
 
-<a href="andreihuyoa.vercel.app"><img src="https://img.shields.io/badge/LinkedIn-31A8ED?style=flat&link=linkedin.com/in/andreihuyoa" alt="LinkedIn" /></a>
-
-<a href="mailto:andrei.huyoa.me@gmail.com"><img src="https://img.shields.io/badge/Email-61192A?style=flat&link=mailto:andrei.huyoa.me@gmail.com" alt="Email" /></a>
-
-<a href="mailto:andrei.huyoa.me@gmail.com"><img src="https://img.shields.io/badge/Personal%20Site-018281?style=flat&link=mailto:andrei.huyoa.me@gmail.com" alt="Personal Site" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-31A8ED?&style=flat)](linkedin.com/in/andreihuyoa)
+[![Email](https://img.shields.io/badge/Email-61192A?&style=flat)](mailto:andrei.huyoa.me@gmail.com)
+[![Personal Site](https://img.shields.io/badge/Personal%20Site-gray?style=flat&link=andreihuyoa.vercel.app)](andreihuyoa.vercel.app)
 
 <!--
 **andreihuyoa/andreihuyoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
