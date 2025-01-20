@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Andrei Huyo-a, [21](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f2d4195dada4c7a895b86e0c63775abca23)y.o
+I'm Andrei Huyo-a, [21](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f2d4195dada4c7a895b86e0c63775abca23) y.o. from Philippines !
 
 ### 🌱 I'm currently learning
 
@@ -18,11 +18,11 @@ I'm Andrei Huyo-a, [21](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f
 
 ### 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-andreihuyoa-gray?labelColor=31A8ED&style=flat&link=andreihuyoa.vercel.app)](andreihuyoa.vercel.app)
+<a href="andreihuyoa.vercel.app"><img src="https://img.shields.io/badge/LinkedIn-31A8ED?style=flat&link=linkedin.com/in/andreihuyoa" alt="LinkedIn" /></a>
 
-[![Email](https://img.shields.io/badge/Email-andreihuyoa-gray?labelColor=61192A&style=flat&link=mailto:andrei.huyoa.me@gmail.com)](mailto:andrei.huyoa.me@gmail.com)
+<a href="mailto:andrei.huyoa.me@gmail.com"><img src="https://img.shields.io/badge/Email-61192A?style=flat&link=mailto:andrei.huyoa.me@gmail.com" alt="Email" /></a>
 
-[![Personal Site](https://img.shields.io/badge/Personal%20Site-andreihuyoa-gray?labelColor=018281&style=flat&link=andreihuyoa.vercel.app)](andreihuyoa.vercel.app)
+<a href="mailto:andrei.huyoa.me@gmail.com"><img src="https://img.shields.io/badge/Personal%20Site-018281?style=flat&link=mailto:andrei.huyoa.me@gmail.com" alt="Personal Site" /></a>
 
 <!--
 **andreihuyoa/andreihuyoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
