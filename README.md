@@ -26,7 +26,7 @@ I'm Andrei Huyo-a, [21](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f
 ### 🔭 I'm currently working on
 
 - [Lokalista](https://github.com/andreihuyoa/lokalista-but-mern)
-- [AI SaaS Resume Builder](https://github.com/andreihuyoa/Resume-Builder)
+- [Tunesculpt](https://github.com/andreihuyoa/Tunesculpt)
 
 ### 📫 How to reach me
 
