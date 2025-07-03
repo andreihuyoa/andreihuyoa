@@ -2,7 +2,7 @@
 
 <h2 align="center">
    <samp>
-  Welcome to Andrei Huyo-a's github page!
+  Hello I'm Andrei!
   </samp>
      <a href="https://andreihuyoa.vercel.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 </h2>
@@ -14,30 +14,40 @@ I'm Andrei Huyo-a, [22](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f
 
 </div>
 
-### 🌱 I'm currently learning
+### 🌱 Technical Skills
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-236F95?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-262929?style=flat-square&logo=expo&logoColor=white)
+![Go](https://img.shields.io/badge/Go-4ca8ac?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-81add4?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4c88cf?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D848C?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4C6619?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-2C3644?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Actually learning anything](https://img.shields.io/badge/Actually%20learning%20anything-0A331D?style=flat-square&logoColor=white)
 
 ### 🔭 I'm currently working on
 
+ <!-- uncomment this later
 - [Lokalista](https://github.com/andreihuyoa/lokalista-but-mern)
 - [Tunesculpt](https://github.com/andreihuyoa/Tunesculpt)
+ -->
+- Final Thesis
 
 ### 📫 How to reach me
+<div>
+  <a target="_blank" href="https://www.linkedin.com/in/andreihuyoa">
+    <img src="https://img.shields.io/badge/LinkedIn-31A8ED?&style=flat" />
+  </a>
 
-<a target="_blank" href="https://www.linkedin.com/in/andreihuyoa">
-  <img src="https://img.shields.io/badge/LinkedIn-31A8ED?&style=flat" />
-</a
+  <a href="mailto:andrei.huyoa.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-61192A?&style=flat" />
+  </a>
 
-[![Email](https://img.shields.io/badge/Email-61192A?&style=flat)](mailto:andrei.huyoa.me@gmail.com)
-<a target="_blank" href="andreihuyoa.vercel.app">
-<img src="https://img.shields.io/badge/Personal%20Site-gray?style=flat" />
-</a>
+  <a target="_blank" href="https://andreihuyoa.vercel.app">
+    <img src="https://img.shields.io/badge/Personal%20Site-gray?style=flat" />
+  </a>
+</div>
+
 
 <!--
 **andreihuyoa/andreihuyoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
