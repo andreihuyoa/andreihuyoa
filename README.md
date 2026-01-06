@@ -1,17 +1,16 @@
 <div align="center">
-
+<a target="_blank" href="https://andreihuyoa.vercel.app">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5jdmppajRhOWczcWExbDk0eG5icnNjbGl5MXNzb3IxZHFya2NyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif" width="40%"></a>
 <h2 align="center">
    <samp>
-  Hello I'm Andrei!
+  Hi!
   </samp>
-     <a href="https://andreihuyoa.vercel.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
+     <a href="https://andreihuyoa.vercel.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/>
 </h2>
-
-<a href="https://andreihuyoa.vercel.app">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5jdmppajRhOWczcWExbDk0eG5icnNjbGl5MXNzb3IxZHFya2NyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif" width="40%"></a>
-
-I'm Andrei Huyo-a, [22](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f2d4195dada4c7a895b86e0c63775abca23) y.o. from Philippines. I love doing things around the web and the cloud!
-
+<p>   
+   
+I'm Carl Andrei Del Rosario, [23](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f2d4195dada4c7a895b86e0c63775abca23) y.o. from Philippines. I love doing things around the web and the cloud!
+</p>
 </div>
 
 ### 🌱 Technical Skills
@@ -31,7 +30,7 @@ I'm Andrei Huyo-a, [22](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f
 - [Lokalista](https://github.com/andreihuyoa/lokalista-but-mern)
 - [Tunesculpt](https://github.com/andreihuyoa/Tunesculpt)
  -->
-- Final Thesis
+- an api model!
 
 ### 📫 How to reach me
 <div>
@@ -44,19 +43,6 @@ I'm Andrei Huyo-a, [22](https://github.com/andreihuyoa/andreihuyoa/commit/30f41f
   </a>
 
   <a target="_blank" href="https://andreihuyoa.vercel.app">
-    <img src="https://img.shields.io/badge/Personal%20Site-gray?style=flat" />
+    <img src="https://img.shields.io/badge/%20Website-gray?style=flat" />
   </a>
 </div>
-
-
-<!--
-**andreihuyoa/andreihuyoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
