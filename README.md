@@ -24,9 +24,9 @@ I'm Carl Andrei Del Rosario, [23](https://github.com/andreihuyoa/andreihuyoa/com
 ![MongoDB](https://img.shields.io/badge/MongoDB-4C6619?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-2C3644?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-### 🔭 I'm currently working on
+ <!-- ### 🔭 I'm currently working on
 
- <!-- uncomment this later
+uncomment this later
 - [Lokalista](https://github.com/andreihuyoa/lokalista-but-mern)
 - [Tunesculpt](https://github.com/andreihuyoa/Tunesculpt)
  
